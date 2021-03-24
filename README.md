@@ -8,6 +8,8 @@ pkg  update && upgrade
 
 pkg install git && python
 
+pip install colorama
+
 git clone https://github.com/stark136/stark136
 
 ls
